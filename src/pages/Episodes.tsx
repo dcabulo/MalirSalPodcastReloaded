@@ -1,4 +1,4 @@
-const Episodes: React.FC<any> = () => {
+const Episodes: React.FC = () => {
   return <div>Hello Episodes</div>;
 };
 

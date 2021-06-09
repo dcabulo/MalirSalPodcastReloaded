@@ -1,4 +1,4 @@
-const AboutUs: React.FC<any> = () => {
+const AboutUs: React.FC = () => {
   return <div>Hello About Us</div>;
 };
 
